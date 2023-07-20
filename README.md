@@ -4,6 +4,21 @@
 
 <h4>📫 Email: <a href="mailto:khalifaherian@gmail.com">khalifaherian@gmail.com</a></h4>
 <hr/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<hr/>
 <!-- <h4>📊 My GitHub Stats</h4>
 <h5><b>🕒 Last Update: July 20th 2023, 6:04:30 am UTC</b></h5>
 <ul>
