@@ -5083,27 +5083,27 @@
     <text style="font-size: 13px;" text-anchor="start" dominant-baseline="auto" x="3.12" y="-156" fill="#aaaaaa">10K</text>
     <g class="axis">
       <line x1="0" y1="-31.2" x2="0" y2="-156" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="0" y="-182.52" fill="#eeeeff">Commit <title>179716</title>
+      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="0" y="-182.52" fill="#eeeeff">Commit <title>31</title>
       </text>
     </g>
     <g class="axis">
       <line x1="29.67" y1="-9.64" x2="148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue <title>5</title>
+      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="185.46" y="-56.4" fill="#eeeeff">Issue <title>0</title>
       </text>
     </g>
     <g class="axis">
       <line x1="18.34" y1="25.24" x2="91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="114.62" y="147.66" fill="#eeeeff">PullReq <title>106</title>
+      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="114.62" y="147.66" fill="#eeeeff">PullReq <title>0</title>
       </text>
     </g>
     <g class="axis">
       <line x1="-18.34" y1="25.24" x2="-91.69" y2="126.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review <title>82</title>
+      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-114.62" y="147.66" fill="#eeeeff">Review <title>0</title>
       </text>
     </g>
     <g class="axis">
       <line x1="-29.67" y1="-9.64" x2="-148.36" y2="-48.21" style="stroke: #aaaaaa; stroke-dasharray: 4 4; stroke-width: 1px;"></line>
-      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-185.46" y="-56.4" fill="#eeeeff">Repo <title>34</title>
+      <text style="font-size: 20.8px;" text-anchor="middle" dominant-baseline="middle" x="-185.46" y="-56.4" fill="#eeeeff">Repo <title>3</title>
       </text>
     </g>
     <polygon style="stroke-width: 4px; stroke: rgb(255,200,55); fill: rgb(255,200,55); fill-opacity: 0.5;" points="0,-187.2 50.41,-16.38 55.48,76.36 -53.44,73.55 -75.12,-24.41">
@@ -5132,7 +5132,7 @@
       </rect>
       <text dominant-baseline="middle" x="26" y="48.75" fill="#eeeeff" font-size="21.666666666666668px">TypeScript <animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </text>
-      <text dominant-baseline="middle" x="26" y="81.25" fill="#eeeeff" font-size="21.666666666666668px">Vue <animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
+      <text dominant-baseline="middle" x="26" y="81.25" fill="#eeeeff" font-size="21.666666666666668px">Next.Js <animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </text>
       <text dominant-baseline="middle" x="26" y="113.75" fill="#eeeeff" font-size="21.666666666666668px">JavaScript <animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </text>
@@ -5145,11 +5145,11 @@
     </g>
     <g transform="translate(130, 130)">
       <path d="M7.164183775012016e-15,-117A117,117,0,1,1,-72.37671772498669,-91.92720343487882L-40.209287624992605,-51.07066857493268A65,65,0,1,0,3.980102097228898e-15,-65Z" style="fill: #3178c6;" stroke="#00000f" stroke-width="2px">
-        <title>TypeScript 160639</title>
+        <title>TypeScript 1</title>
         <animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </path>
       <path d="M-72.37671772498669,-91.92720343487882A117,117,0,0,1,-72.32849874026562,-91.96514703940508L-40.18249930014757,-51.09174835522504A65,65,0,0,0,-40.209287624992605,-51.07066857493268Z" style="fill: #41b883;" stroke="#00000f" stroke-width="2px">
-        <title>Vue 15</title>
+        <title>Next.Js 1</title>
         <animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </path>
       <path d="M-72.32849874026562,-91.96514703940508A117,117,0,0,1,-72.29634169852783,-91.99042872500218L-40.1646342769599,-51.10579373611232A65,65,0,0,0,-40.18249930014757,-51.09174835522504Z" style="fill: #f1e05a;" stroke="#00000f" stroke-width="2px">
@@ -5157,15 +5157,15 @@
         <animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate>
       </path>
       <path d="M-72.29634169852783,-91.99042872500218A117,117,0,0,1,-72.27060970234243,-92.01064597779808L-40.15033872352357,-51.11702554322115A65,65,0,0,0,-40.1646342769599,-51.10579373611232Z" style="fill: #3572A5;" stroke="#00000f" stroke-width="2px">
-        <title>Python 8</title>
+        <title>Python 1</title>
         <animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate>
       </path>
       <path d="M-72.27060970234243,-92.01064597779808A117,117,0,0,1,-72.2480895678621,-92.02833016954169L-40.13782753770116,-51.12685009418983A65,65,0,0,0,-40.15033872352357,-51.11702554322115Z" style="fill: #4F5D95;" stroke="#00000f" stroke-width="2px">
-        <title>PHP 7</title>
+        <title>PHP 0</title>
         <animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate>
       </path>
       <path d="M-72.2480895678621,-92.02833016954169A117,117,0,0,1,-2.1492551325036047e-14,-117L-1.1940306291686693e-14,-65A65,65,0,0,0,-40.13782753770116,-51.12685009418983Z" style="fill: #444444;" stroke="#00000f" stroke-width="2px">
-        <title>other 19037</title>
+        <title>other 0</title>
         <animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate>
       </path>
     </g>
