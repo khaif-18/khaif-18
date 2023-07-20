@@ -1,11 +1,9 @@
 <h3><b>Hi there, I'm Khaif</b></h3>
 <h4>👋 Welcome to my profile!</h4>
-<h4>👀 Software Developer, Developer and Gamer</h4>
+<h4>👀 Software Developer and Gamer</h4>
 
 <h4>📫 Email: <a href="mailto:khalifaherian@gmail.com">khalifaherian@gmail.com</a></h4>
 <hr/>
-<br/>
-<br/>
 <!-- <h4>📊 My GitHub Stats</h4>
 <h5><b>🕒 Last Update: July 20th 2023, 6:04:30 am UTC</b></h5>
 <ul>
