@@ -27,7 +27,6 @@
     <summary>More Info!</summary>
     <br/>
     <br/>
-    <a href="https://nayuki.cyou">
         <div align="center">
             <img alt="github" src="https://github-readme-stats.vercel.app/api?username=khaif-18&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
             <br/>
@@ -41,5 +40,4 @@
             <br/>
             <img alt="repo" src="https://github-contributor-stats.vercel.app/api?username=khaif-18&show_icons=true&include_all_commits=true&line_height=28.5&count_private=true&title_color=82CAFF&icon_color=82CAFF&bg_color=191970&theme=nord"/>
         </div>    
-    </a>
 </details>
