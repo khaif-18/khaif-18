@@ -55,7 +55,7 @@
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Vercel&color=%23181717&style=for-the-badge&logo=vercel&logoColor=whitesmoke" alt="Vercel"></a>        
     </li>
     <li>Currently Learning: 
-        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Fresh&color=%23FFe66d&style=for-the-badge&logo=hellofresh&logoColor=grey" alt="Fresh"></a>
+        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Gatsby&color=%236f42c1&style=for-the-badge&logo=gatsby&logoColor=whitesmoke" alt="whitesmoke"></a>
     </li>
 </ul>
 <br/>
