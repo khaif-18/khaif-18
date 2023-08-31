@@ -1,4 +1,5 @@
 <h3><b>Hi there, I'm Khaif</b></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&duration=4000&color=44d5ff&background=12121200&vCenter=true&multiline=true&width=600&lines=Hola%2C+Thank+you+for+Visitting+My+Github!+See+you!)](https://git.io/typing-svg)
 <h4>👋 Welcome to my profile!</h4>
 <h4>👀 Software Developer and Gamer</h4>
 
