@@ -49,8 +49,8 @@
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Docker&color=%2361a6e4&style=for-the-badge&logo=docker&logoColor=whitesmoke" alt="Docker"></a>
     </li>
     <li>IDEs:
-        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Intellij IDEA&color=%23fc5fa3&style=for-the-badge&logo=intellijidea&logoColor=whitesmoke" alt="Intellij IDEA"></a>
-        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Vs Code&color=%2310A5F5&style=for-the-badge&logo=visualstudiocode&logoColor=whitesmoke" alt="Vs Code"></a>
+        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Intellij%20IDEA&color=%23fc5fa3&style=for-the-badge&logo=intellijidea&logoColor=whitesmoke" alt="Intellij IDEA"></a>
+        <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Vs%20Code&color=%2310A5F5&style=for-the-badge&logo=visualstudiocode&logoColor=whitesmoke" alt="Vs Code"></a>
     </li>
     <li>Etc: 
         <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Vercel&color=%23181717&style=for-the-badge&logo=vercel&logoColor=whitesmoke" alt="Vercel"></a>        
